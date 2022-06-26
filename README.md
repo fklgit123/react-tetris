@@ -37,7 +37,7 @@ Redux设计管理了所有应存的状态，这是上面持久化的保证。
 
 ## 1、什么是 Immutable？
 Immutable 是一旦创建，就不能再被更改的数据。对 Immutable 对象的任何修改或添加删除操作都会返回一个新的 Immutable 对象。
-
+test
 ### 初识：
 让我们看下面一段代码：
 ``` JavaScript
